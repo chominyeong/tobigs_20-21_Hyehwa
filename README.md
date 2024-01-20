@@ -13,6 +13,6 @@
 |2024.02.03|알고리즘|DP 5문제||
 |2024.02.24|선형대수|chap3.Orthogonal ProjectionⅠ|조미현,조민영|
 ### 자료
-[인공지능을 위한 선형대수](https://www.boostcourse.org/ai251/joinLectures/195088?isDesc=false)  
-[BOJ](https://www.acmicpc.net/)  
+- [인공지능을 위한 선형대수](https://www.boostcourse.org/ai251/joinLectures/195088?isDesc=false)  
+- [BOJ](https://www.acmicpc.net/)  
 <img width="1710" alt="KakaoTalk_20240120_161830240" src="https://github.com/chominyeong/tobigs_20-21_Hyehwa/assets/81460659/3900e42d-2044-44e2-8b3b-3520260580b6">
