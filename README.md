@@ -11,7 +11,7 @@
 |2024.01.20|OT|-|-|
 |2024.01.27|선형대수|chap3.Least Squares Problem 소개~정규방정식|지유경,김민수|
 |2024.02.03|알고리즘|DP(9095, 11726,  1934, 10430, 11655)||
-|2024.02.24|선형대수|chap3.Orthogonal ProjectionⅠ ~ 그람-슈미트 직교화와 QR 분해|조미현,조민영|
+|2024.02.17|선형대수|chap3.Orthogonal ProjectionⅠ ~ 그람-슈미트 직교화와 QR 분해|조미현,조민영|
 ### 자료
 - [인공지능을 위한 선형대수](https://www.boostcourse.org/ai251/joinLectures/195088?isDesc=false)  
 - [BOJ](https://www.acmicpc.net/)  
